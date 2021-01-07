@@ -22,6 +22,6 @@
 http://localhost:3000/
 
 
-**(5) Just pick a date to see particular date astronomy with image and explanation**
+**(5) Just pick a date from datepicker to see particular date astronomy with image and explanation**
 
 
