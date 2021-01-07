@@ -49,7 +49,7 @@ function NasaApiController() {
                 }).then((jsonData) => {
                     console.log(jsonData);
                     jsonData.forEach((data) => {
-                        return res.render('home', { data: data,maxDate:data.date });
+                        return res.render('home', { data: data,maxDate:maxDate });
                     })
                 }).catch((err) => {
                     console.log(err);
