@@ -3,25 +3,25 @@
 # Nasa Api App
 
 
-** (1)First Clone the project by this command ** 
+**(1)First Clone the project by this command** 
 
   git clone https://github.com/sanketsonawane10/nasa-api-app.git 
 
 
-** (2) Open Terminal and install all dependencies required by following command ** 
+**(2) Open Terminal and install all dependencies required by following command** 
 
   npm install
 
-** (3) then run the project by this command ** 
+**(3) then run the project by this command** 
 
   npm run dev
 
 
-** (4) this is home url -> u will get todays(current date) astronomy image with explanation **
+**(4) this is home url -> u will get todays(current date) astronomy image with explanation**
 
 http://localhost:3000/
 
 
-** (5) Just pick a date to see particular date astronomy with image and explanation **
+**(5) Just pick a date to see particular date astronomy with image and explanation**
 
 
